@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CS121ASG2: UCSC Weather</string>
+    <string name="location">Location: </string>
+    <string name="temperature">Temperature: </string>
+    <string name="fah">°F / </string>
+    <string name="cel">°C</string>
+    <string name="relHum">Relative Humidity: </string>
+    <string name="wind">Wind Speed: </string>
+    <string name="mph"> mph</string>
+    <string name="weather">Weather: </string>
+    <string name="error">An error has occurred, please try again</string>
+</resources>

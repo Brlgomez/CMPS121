@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CS121ASG1</string>
+    <string name="playerNum1">Go X</string>
+    <string name="playerNum2">Go O</string>
+    <string name="winner1">You Won X</string>
+    <string name="winner2">You Won O</string>
+    <string name="tie">Tie</string>
+</resources>
