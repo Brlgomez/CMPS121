@@ -2,7 +2,7 @@
 Mobile Applications
 Introduces programming and application development for mobile devices. Covers the SDK and main programming platforms available on mobile devices, methodologies for developing native applications, division of computation between the mobile platform and servers, and mobile-to-server communications. Introduces platforms based on JavaScript and HTML5 for the development of applications that are portable across platforms. Students develop components of applications, leading to fully functional applications by the end of the course. Course based on emulators and SDK tools, so ownership of a cellphone/tablet is not required for the course. Pre-requisite(s): Computer Science 12B and 12M. L. de Alfaro, J. Whitehead
 
-ASG1:
+	ASG1:
 For this assignment, you have to implement a game of tic-tac-toe.  On the device there need to be the following elements:
 	•	On top, a TextView that can either be hidden, or contain "X won!", "O won!", or "Tie."
 	•	In the middle, a 3x3 grid of buttons. 
@@ -13,7 +13,7 @@ It's up to you how to highlight the three in a row.  A possible way consists in
 
 Also give your application a descriptive icon (the ic_launcher icon).
 
-ASG2:
+	ASG2:
 We are going to build a simple app that acquires the location, interrogates a weather API, and reports the weather conditions for the location.
 
 The Weather API
@@ -58,7 +58,7 @@ Please:
 	•	Use the Retrofit library explained in class.
 	•	Make sure the info is presented readably, does not disappear if the phone/tablet is rotated, and is scrollable so can be read on small screens.
 
-ASG3:
+	ASG3:
 In this assignment, you have to build an app that enables you to group chat anonymously with people nearby. 
 
 The API
