@@ -1,0 +1,3 @@
+# CMPS121
+Mobile Applications
+Introduces programming and application development for mobile devices. Covers the SDK and main programming platforms available on mobile devices, methodologies for developing native applications, division of computation between the mobile platform and servers, and mobile-to-server communications. Introduces platforms based on JavaScript and HTML5 for the development of applications that are portable across platforms. Students develop components of applications, leading to fully functional applications by the end of the course. Course based on emulators and SDK tools, so ownership of a cellphone/tablet is not required for the course. Pre-requisite(s): Computer Science 12B and 12M. L. de Alfaro, J. Whitehead
